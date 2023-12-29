@@ -1,2 +1,11 @@
-# Knee_Osteoarthritis_Prediction
-Knee osteoarthritis (OA), also known as degenerative joint disease, is typically the result of wear and tear and progressive loss of articular cartilage. It is most common in the elderly. Knee osteoarthritis can be divided into two types, primary and secondary.
+# Flask-Knee-Osteoarthritis-Classification
+
+
+For more Details vist My youtube channel:
+
+
+https://youtu.be/G9jNSSIcQoA
+
+or
+
+https://buffml.com/diagnosis-for-prediction-of-knee-osteoarthritis-using-deep-learning/
